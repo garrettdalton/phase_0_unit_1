@@ -18,3 +18,5 @@ Take a moment to reflect on reading other people's responses regarding their fea
 
 Haven't seen anyones reflections yet, but I defintely feel better since I was able to complete this first week in a timespan limited by finals and work.  I am definitely much more excited for on site now that I have begun learning so much.
 
+[Update]
+Reading my accountabillity buddies stuff has definitely eased my nerves a little bit.  It's easy to feel all alone when dealing with a large workload, especially when you hit those snags that you just can't get out of (thank you google+ for saving me).  Being able to read and see others thoughts and feelings on DBC has definitely cemented the idea that we are all in the same boat and that we are eachothers strongest resource in tackling this beast.  Hopefully I can drill that into my head instead of stubbornly trying to fix stuff (for 3 hours) that was solved within minutes by a fellow peer.  Here's to more snags and challenges and (hopefully) overcoming them!
