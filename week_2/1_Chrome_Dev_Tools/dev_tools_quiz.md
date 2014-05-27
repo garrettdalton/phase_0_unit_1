@@ -5,9 +5,13 @@
 ##QUIZ
 * Explain which tabs support the following actions and how.
   * Realtime editing of HTML and CSS 
-  * Javascript Debugging
-  * Performance Optimization 
+      The elements tab, as well as right clicking on the page itself to show element.  Allows for the real time editing of both HTML and CSS.  It does so by showing the HTML source and CSS affecting the element to the right of it.
 
+  * Javascript Debugging
+      This is done in the sources tab.  As far as I can tell it basically shows the Javascript inside a browser compiler.
+
+  * Performance Optimization 
+      This is done in the Network tab which demonstrates each request to the server along with its size, time, and so on.  If you refresh you can see any changes made to the code/images/sources via the network tab
 * What's the quick key for your OS to spawn the Dev Tools inspector?
 
 * Go to http://www.postmachina.com/ and analyze and tweak this nicely designed page.
