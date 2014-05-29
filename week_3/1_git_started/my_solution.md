@@ -44,13 +44,17 @@ looks at the current state of your repo, shows files, changes staged to commit, 
 ## Release 4: Git Workflow
 
 - Push files to a remote repository
+	use git add to stage file > use commit -m "message" to prepare the change for sync > use git push to save on remote repo.
+
 - Fetch changes
+	Have the local repo set up with the remote repo > git fetch from the remote repo > use git merge to combine the old local and newly fetched branch
+
 - Commit locally
+  use git add to stage file > use git commit -m to commit the file
 
 ## Release 5: Errors you encountered
-1. Error
-2. Solution
-3. Cause (explain the error)
+
+The only error I encounted was when intially trying to use git. I was stumped for a while until I realized that I was in the wrong directory, and needed to navigate to my repo before using git commands.
 
 ## Release 6: Reflection
 My strategy for this challenge was pretty straightforward.  I just went through the resources and tried to drill the important parts of git into my brain.  The main problem I face was that It doesn't say in the directions that you have to navigate to the right directory in order to use git commands. This took me a while to figure out, and I kept thinking it was because I set up a repo on github, when I was just in the wrong directory.
