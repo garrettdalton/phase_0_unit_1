@@ -3,43 +3,43 @@ Define the following commands and describe how they work/what they do.
 
 
 #### add
-<!-- Your defnition here -->
+this brings new files to git's attention and basically keeps track of the file
 
 #### branch
-<!-- Your defnition here -->
+Adds a new branch with supplied name.  Allows the user to create a seperate timeline of commits/changes from the master.
 
 #### checkout
-<!-- Your defnition here -->
+navigates to target repo/branch
 
 #### clone
-<!-- Your defnition here -->
+creates a local copy of target repo on your machine 
 
 #### commit
-<!-- Your defnition here -->
+saves the current state of the repo
 
 #### fetch
-<!-- Your defnition here -->
+fetch grabs updates from a tracked repository without updating your local repos
 
 #### log
-<!-- Your defnition here -->
+shows the log of your commits
 
 #### merge
-<!-- Your defnition here -->
+joins two branches together, the specified branch will be merged with the current one
 
 #### pull
-<!-- Your defnition here -->
+basically a fetch and then merge in one command.  Updates your local files based on updates fetched from the tracked repo
 
 #### push
-<!-- Your defnition here -->
+This updates changes from your local repo to your online repo
 
 #### reset
-<!-- Your defnition here -->
+Will point the HEAD to target location, as well as set the master to that location
 
 #### rm
-<!-- Your defnition here -->
+removes a file from the working tree and index
 
 #### status
-
+looks at the current state of your repo, shows files, changes staged to commit, and what branch you are in
 
 ## Release 4: Git Workflow
 
