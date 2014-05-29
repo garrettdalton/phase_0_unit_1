@@ -53,3 +53,13 @@ looks at the current state of your repo, shows files, changes staged to commit, 
 3. Cause (explain the error)
 
 ## Release 6: Reflection
+My strategy for this challenge was pretty straightforward.  I just went through the resources and tried to drill the important parts of git into my brain.  The main problem I face was that It doesn't say in the directions that you have to navigate to the right directory in order to use git commands. This took me a while to figure out, and I kept thinking it was because I set up a repo on github, when I was just in the wrong directory.
+
+The given resources answered most of my questions, the one question I had was what git reset really did (as I had to explain it for the quiz).  I googled around and read several different definitions to come to my answer.
+
+The whole process was learning new skills and tricks as I had relied heavily on using the github app to push my changes to the github website.
+
+I would say overall that I am pretty confident with the competencies.
+
+I love learning new commands and coding techniques, so for the most part I enjoyed this challenge.  The part I found tedious was the initial setup for git in the terminal window (which I had done weeks ago and didn't remember exactly) as I was attempting git commands in the wrong directory.
+
