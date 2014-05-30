@@ -16,8 +16,34 @@ var terah = {
 
 // __________________________________________
 // Write your code below.
+var adam = {
+};
+adam.name = "adam";
+terah.spouse = adam;
+terah.weight = 125;
+delete terah.eyeColor;
+adam.spouse = terah;
+terah.children = {};
+terah.children.carson = { name : "Carson"};
+terah.children.carter = { name : "Carter"};
+terah.children.colton = { name : "Colton"};
+adam.children = terah.children;
 
-
+//final terah object
+ console.log(terah)
+{ name: 'Terah',
+  age: 32,
+  height: 66,
+  weight: 125,
+  hairColor: 'brown',
+  spouse: 
+   { name: 'Adam',
+     spouse: [Circular],
+     children: { carson: [Object], carter: [Object], colton: [Object] } },
+  children: 
+   { carson: { name: 'Carson' },
+     carter: { name: 'Carter' },
+     colton: { name: 'Colton' } } }
 
 
 
@@ -26,7 +52,27 @@ var terah = {
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
+// What parts of your strategy worked? What problems did you face?
+// My strategy for this exercise was to go through each of the test code lines and try to directly solve those problems written in the strings. 
+// Using the terminal, I would then repeated test that code until the test came out true, and then copied that code to the solution file.
+
+// What questions did you have while coding? What resources did you find to help you answer them?
+// It took me a little bit to figure out how to make new objects within an object variable.  I used the intro to javascript at the beginning of this phase to figure it out.
+
+// What concepts are you having trouble with, or did you just figure something out? If so, what?
+// At first I was treating object literals as if they were a weird type of class.  I figured out eventually that a literal is making an object while skipping the class middleman.
+
+// Did you learn any new skills or tricks?
+// how to delete and add new variables to previously made objects.
+
+// How confident are you with each of the Learning Competencies?
+// very!
+
+// Which parts of the challenge did you enjoy?
+// Yet again I loved getting into the code and just going for it.  It is so refreshing to get the answers right!
+
+// Which parts of the challenge did you find tedious?
+// Copying the test code into the terminal messed me up once or twice.
 // 
 // 
 // 
